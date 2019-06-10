@@ -1,11 +1,7 @@
-Java8InAction
+Java 8 In Action
 ===============
 
 This repository contains all the source code for the examples and quizzes in the book Java 8 in Action: Lambdas, Streams and functional-style programming.
-
-You can purchase the book here: [http://manning.com/urma/](http://manning.com/urma/) or on Amazon
-
-The source code for all examples can be found in the directory [src/main/java/lambdasinaction](https://github.com/java8/Java8InAction/tree/master/src/main/java/lambdasinaction)
 
 * Chapter 1: Java 8: why should you care?
 * Chapter 2: Passing code with behavior parameterization
@@ -38,8 +34,6 @@ java version "1.8.0_05"
 Java(TM) SE Runtime Environment (build 1.8.0_05-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.5-b02, mixed mode)
 
-
-You can download a preview version here: https://jdk8.java.net/
 
 ### Compile/Run the examples
 Using maven:
